@@ -1,0 +1,22 @@
+{
+  "name": "ola-mundo",
+  "version": "1.0.0",
+  "description": "meu primeiro projeto usando npm",
+  "main": "index.html",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManoelNasciment0/projeto-aula-html-01.git"
+  },
+  "keywords": [
+    "ola",
+    "mundo"
+  ],
+  "author": "Manoel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManoelNasciment0/projeto-aula-html-01/issues"
+  },
+  "homepage": "https://github.com/ManoelNasciment0/projeto-aula-html-01#readme"
+}
